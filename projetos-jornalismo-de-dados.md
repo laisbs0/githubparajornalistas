@@ -26,3 +26,4 @@ Volt Data Lab | https://github.com/voltdatalab | Brasil
 Vox Media | https://github.com/voxmedia | EUA
 Jornal O POVO | https://github.com/opovoonline | Brasil
 UOL | https://github.com/uol | Brasil
+Libération | https://github.com/liberation | França
